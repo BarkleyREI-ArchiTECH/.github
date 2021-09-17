@@ -1,3 +1,3 @@
-# Barkley REI
+# ArchiTECH™
 
-## ArchiTECH™
+A proud project of BarkleyREI
