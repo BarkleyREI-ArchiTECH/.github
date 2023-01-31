@@ -2,7 +2,6 @@
 
 [https://www.builtforyou.com](https://www.builtforyou.com)
 
-A proud project of 🚀 [BarkleyREI](https://www.barkleyrei.com)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/architech_brei.svg?style=for-the-badge&label=Twitter)](https://twitter.com/architech_brei)
 
